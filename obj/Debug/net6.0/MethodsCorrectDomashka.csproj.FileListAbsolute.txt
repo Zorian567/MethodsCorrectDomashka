@@ -1,0 +1,14 @@
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\bin\Debug\net6.0\MethodsCorrectDomashka.exe
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\bin\Debug\net6.0\MethodsCorrectDomashka.deps.json
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\bin\Debug\net6.0\MethodsCorrectDomashka.runtimeconfig.json
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\bin\Debug\net6.0\MethodsCorrectDomashka.dll
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\bin\Debug\net6.0\MethodsCorrectDomashka.pdb
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\obj\Debug\net6.0\MethodsCorrectDomashka.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\obj\Debug\net6.0\MethodsCorrectDomashka.AssemblyInfoInputs.cache
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\obj\Debug\net6.0\MethodsCorrectDomashka.AssemblyInfo.cs
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\obj\Debug\net6.0\MethodsCorrectDomashka.csproj.CoreCompileInputs.cache
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\obj\Debug\net6.0\MethodsCorrectDomashka.dll
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\obj\Debug\net6.0\refint\MethodsCorrectDomashka.dll
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\obj\Debug\net6.0\MethodsCorrectDomashka.pdb
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\obj\Debug\net6.0\MethodsCorrectDomashka.genruntimeconfig.cache
+C:\VSCodeCS\MethodsCorrectDomashka\MethodsCorrectDomashka\obj\Debug\net6.0\ref\MethodsCorrectDomashka.dll
